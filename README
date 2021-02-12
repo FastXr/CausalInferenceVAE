@@ -1,0 +1,5 @@
+This projects was built in Google Drive. Changing following command to location of .ipynb on your drive and having data file in drive would work.
+
+%cd /content/drive/MyDrive/Colab\ Notebooks/Causal_Inference_Final
+
+If you want to run it with jupyter just remove cells related to colab, have data folder in the same path with .ipynb and it should work.
